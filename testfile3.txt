@@ -15,8 +15,8 @@ djnfxkj
 for branch2003
 h;ioj
  # def get(self, request, branch_name, repo_slug):
-    #     if repo_slug and branch_name:
-    #         repo = Repo.objects(slug=repo_slug).first()
+ #     if repo_slug and branch_name:
+ #         repo = Repo.objects(slug=repo_slug).first()
     #         if repo:
     #             branch = Branch.objects(repo=repo, name=branch_name).first()
     #         if not branch:
